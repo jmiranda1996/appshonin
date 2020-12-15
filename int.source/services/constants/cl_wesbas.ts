@@ -1,0 +1,1 @@
+export const uf_sysbas_cn_valida_acceso_vendedor = 'uf_sysbas_cn_valida_acceso_vendedor'
